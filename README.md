@@ -1,12 +1,59 @@
-# LEPKOM-ORACLE-INTERMEDIET
-LEPKOM ORACLE INTERMEDIET
-ORACLE FOR INTERMEDIATE
-Tingkat 3
-Create and Manage Table
-Constraint Handling
-Create View
-Other Database Object
-Show Data From Tables
-Sub Query
-Writing Explicit Cursors
-Handling Exception
+# LEPKOM-ORACLE-INTERMEDIATE
+
+# LEPKOM INTERMEDIATE
+ 
+Lab IT Practicum - ORACLE FOR INTERMEDIATE - TINGKAT 3
+
+
+
+
+
+Lab IT Practicum Learning is done on the web ( https://kursusvmlepkom.gunadarma.ac.id )
+
+
+
+
+
+
+
+
+# ORACLE FOR INTERMEDIATE
+
+
+
+
+
+Tingkat 3 Mempelajari Apa Saja ?
+
+
+
+
+
+1. Create and Manage Table
+
+
+2. Constraint Handling
+
+
+3. Create View
+
+
+4. Other Database Object
+
+
+5. Show Data From Tables
+
+
+6. Sub Query
+
+
+7. Writing Explicit Cursors
+
+
+8. Handling Exception
+
+
+
+
+Source : https://vm.lepkom.gunadarma.ac.id/skema/tingkat3
+
