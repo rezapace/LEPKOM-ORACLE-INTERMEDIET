@@ -1,59 +1,22 @@
 # LEPKOM-ORACLE-INTERMEDIATE
 
-# LEPKOM INTERMEDIATE
- 
-Lab IT Practicum - ORACLE FOR INTERMEDIATE - TINGKAT 3
+## Description
 
+The LEPKOM Intermediate Lab IT Practicum focuses on Oracle for Intermediate level (Tingkat 3). This course is conducted online through the [LEPKOM Learning Platform](https://kursusvmlepkom.gunadarma.ac.id).
 
+## Course Outline
 
+### What Will You Learn in Tingkat 3?
 
+1. **Create and Manage Tables**
+2. **Constraint Handling**
+3. **Create Views**
+4. **Other Database Objects**
+5. **Show Data From Tables**
+6. **Sub Queries**
+7. **Writing Explicit Cursors**
+8. **Handling Exceptions**
 
-Lab IT Practicum Learning is done on the web ( https://kursusvmlepkom.gunadarma.ac.id )
+## Additional Information
 
-
-
-
-
-
-
-
-# ORACLE FOR INTERMEDIATE
-
-
-
-
-
-Tingkat 3 Mempelajari Apa Saja ?
-
-
-
-
-
-1. Create and Manage Table
-
-
-2. Constraint Handling
-
-
-3. Create View
-
-
-4. Other Database Object
-
-
-5. Show Data From Tables
-
-
-6. Sub Query
-
-
-7. Writing Explicit Cursors
-
-
-8. Handling Exception
-
-
-
-
-Source : https://vm.lepkom.gunadarma.ac.id/skema/tingkat3
-
+For more details, visit the [course schema](https://vm.lepkom.gunadarma.ac.id/skema/tingkat3).
